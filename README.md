@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**ayse-dev/ayse-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I'm Ayse
 
-Here are some ideas to get you started:
+### Frontend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in building responsive and visually engaging web interfaces using HTML, CSS, and JavaScript.
+
+---
+
+## 🚀 Skills
+- HTML5
+- CSS3
+- Responsive Design
+- JavaScript (Improving)
+
+---
+
+## 🎨 Focus
+Creating clean UI, structured layouts, and modern web experiences.
+
+---
+
+## 📫 Contact
+Open to freelance projects and collaboration.
